@@ -1,0 +1,6 @@
+mcp
+fastapi
+uvicorn
+sse-starlette
+pydantic
+python-dotenv
